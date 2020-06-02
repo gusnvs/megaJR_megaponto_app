@@ -127,7 +127,7 @@ class _LoginState extends State<Login> {
                             height: 35,
                           ),
                           Padding(
-                            padding: EdgeInsets.only(right: 50, left: 50),
+                            padding: EdgeInsets.only(right: 60, left: 60),
                             child: Container(
                               height: 60,
                               alignment: Alignment.centerLeft,
